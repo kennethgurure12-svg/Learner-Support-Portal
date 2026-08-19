@@ -1,0 +1,79 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="plVDHqo-P9ZqvIC5W2vk">
+    <mxGraphModel dx="1564" dy="976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="oBwc6-IzVhbJ2CGQu0sL-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="" vertex="1">
+          <mxGeometry height="700" width="550" x="170" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="oBwc6-IzVhbJ2CGQu0sL-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Full Name&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="80" x="210" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="oBwc6-IzVhbJ2CGQu0sL-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Welcome TO THE Skills TRAINING CENTER REGISTRATION&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="350" x="250" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="oBwc6-IzVhbJ2CGQu0sL-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Enter your email address" vertex="1">
+          <mxGeometry height="30" width="160" x="185" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="oBwc6-IzVhbJ2CGQu0sL-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Email&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="50" x="225" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="oBwc6-IzVhbJ2CGQu0sL-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Enter your Full Names" vertex="1">
+          <mxGeometry height="30" width="150" x="195" y="225" as="geometry" />
+        </mxCell>
+        <mxCell id="oBwc6-IzVhbJ2CGQu0sL-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Phone Number" vertex="1">
+          <mxGeometry height="30" width="100" x="205" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="oBwc6-IzVhbJ2CGQu0sL-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Enter your phone number&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="170" x="185" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="oBwc6-IzVhbJ2CGQu0sL-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Enter your password" vertex="1">
+          <mxGeometry height="30" width="140" x="195" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="oBwc6-IzVhbJ2CGQu0sL-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Enter your password" vertex="1">
+          <mxGeometry height="30" width="140" x="190" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="oBwc6-IzVhbJ2CGQu0sL-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Student&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="70" x="220" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="oBwc6-IzVhbJ2CGQu0sL-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Assesor" vertex="1">
+          <mxGeometry height="30" width="70" x="370" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="oBwc6-IzVhbJ2CGQu0sL-26" edge="1" parent="1" source="oBwc6-IzVhbJ2CGQu0sL-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="435" y="841" />
+              <mxPoint x="440" y="841" />
+            </Array>
+            <mxPoint x="440" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oBwc6-IzVhbJ2CGQu0sL-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Create Account&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="120" x="375" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="oBwc6-IzVhbJ2CGQu0sL-27" parent="1" style="whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Once account is created the user will then be redirected to the logiin page to confirm that the details were captured and stored in the database&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="110" width="190" x="360" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="oBwc6-IzVhbJ2CGQu0sL-28" parent="1" style="whiteSpace=wrap;html=1;align=center;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Create Password" vertex="1">
+          <mxGeometry height="40" width="120" x="205" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="oBwc6-IzVhbJ2CGQu0sL-30" parent="1" style="whiteSpace=wrap;html=1;align=center;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Phone Number" vertex="1">
+          <mxGeometry height="40" width="100" x="210" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="oBwc6-IzVhbJ2CGQu0sL-31" parent="1" style="whiteSpace=wrap;html=1;align=center;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Select whether your a Student or Asse&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;sor&amp;nbsp;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="260" x="190" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="oBwc6-IzVhbJ2CGQu0sL-32" parent="1" style="whiteSpace=wrap;html=1;align=center;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Email Address&amp;nbsp;" vertex="1">
+          <mxGeometry height="40" width="100" x="205" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="oBwc6-IzVhbJ2CGQu0sL-33" parent="1" style="whiteSpace=wrap;html=1;align=center;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Full Name" vertex="1">
+          <mxGeometry height="40" width="100" x="205" y="185" as="geometry" />
+        </mxCell>
+        <mxCell id="oBwc6-IzVhbJ2CGQu0sL-34" parent="1" style="whiteSpace=wrap;html=1;align=center;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="confirm Password" vertex="1">
+          <mxGeometry height="40" width="130" x="210" y="670" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
